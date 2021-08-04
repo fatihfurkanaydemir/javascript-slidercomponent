@@ -1,0 +1,1 @@
+# javascript-slidercomponent
